@@ -1,4 +1,4 @@
 # scala_dataframe_examples
 
 * Start spark-shell
-*:load examples.scala
+* :load examples.scala
